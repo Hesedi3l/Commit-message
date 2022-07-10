@@ -24,7 +24,7 @@ git commit -m "🎉 mon premier commit !"
 |`version`|Tag de la version|🏷️|`label`|
 |`feature`|Nouvelle fonctionnalité|✨|`sparkles`|
 |`bug fix`|Correction de bug/erreur|🐛|`bug`|
-|`remove`|Suppression d'un élement, d'un dossier, d'une focitonnalité|⛔|`no-entry`|
+|`remove`|Suppression d'un élement, d'un dossier, d'une fonctionnalité|⛔|`no-entry`|
 |`docs`|Documentation|📚|`books`|
 |`style`|Changement de style|💎|`gem`|
 |`refactor`|Refratoring de code|📦|`box`|
