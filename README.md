@@ -17,7 +17,7 @@ __Ou bien sous cette forme directement avec l'émoji :__
 git add .
 git commit -m "🎉 mon premier commit !"
 ```
-### ✨ Quels émojies utiliser ?
+### ✨ Quels émojis utiliser ?
 |Type de commit|Description|Emoji|Emoji nom|
 |-----|-------------------|-------|-------------------|
 |`init`|Innitialisation du projet|🎉|`tada`|
